@@ -1,2 +1,2 @@
 # college-website
- College Website using HTML,CSS AND JAVA
+ College Website using HTML,CSS AND JAVASCRIPT
